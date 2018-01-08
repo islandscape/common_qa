@@ -1,0 +1,7 @@
+
+
+解压.tar.gz文件
+    tar -zxvf xxxx.tar.gz
+
+压缩 .tar.gz文件
+    tar -zcvf xxxx.tar.gz dir/
